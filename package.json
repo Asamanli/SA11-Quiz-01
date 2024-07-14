@@ -1,0 +1,21 @@
+{
+  "name": "sa11-quiz-01",
+  "version": "1.0.0",
+  "description": "This repository contains the source code for an IQ quiz application.  This quiz aims to test your cognitive abilities and challenge your problem-solving skills. It can be used for individual assessment, practice, or even as a fun learning tool.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
